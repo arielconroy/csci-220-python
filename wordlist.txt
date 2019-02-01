@@ -1,0 +1,9 @@
+lemon
+tea
+coffee
+food
+chicken
+potato
+tomato
+pen
+paper
